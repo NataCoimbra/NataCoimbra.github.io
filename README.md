@@ -5,3 +5,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 Olá, estou editando esse arquivo para o tutorial. 
+
+Outra mudança para agora usar o comando PULL.
